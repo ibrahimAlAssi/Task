@@ -1,5 +1,4 @@
-commmand
-Project:
+ project's commmand:
 ```
 composer install
 ```
