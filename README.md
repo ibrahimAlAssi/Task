@@ -1,4 +1,4 @@
- project's command:
+# project's command:
 ```
 composer install
 ```
